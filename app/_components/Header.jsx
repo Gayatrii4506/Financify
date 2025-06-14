@@ -26,7 +26,7 @@ function Header() {
             <Button variant="outline" className="rounded-full">Dashboard</Button>
           </Link>
           <Link href="/dashboard">
-            <Button className="rounded-full" color="blue-800">Get Started</Button>
+            <Button className="rounded-full bg-blue-800 text-white hover:bg-blue-700">Get Started</Button>
           </Link>
         </div>
       )}
