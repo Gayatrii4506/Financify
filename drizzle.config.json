@@ -1,0 +1,8 @@
+{
+  "schema": "./drizzle/schema",
+  "out": "./drizzle/migrations",
+  "driver": "pg",
+  "dbCredentials": {
+    "connectionString": "postgresql://Finance-owner:npg_VGrQmDBM02HY@ep-plain-night-a82tjd93-pooler.eastus2.azure.neon.tech/Financify?sslmode=require"
+  }
+}
